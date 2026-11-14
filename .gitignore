@@ -1,0 +1,7 @@
+~$*
+*.SLDBAK
+*.sldbak
+*.bak
+*_bak*
+Thumbs.db
+desktop.ini
